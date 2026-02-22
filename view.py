@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 from util.utils import get_currencies
 from load import cr_plot, cr_table
 from datetime import datetime
-app = Flask("Nazwa aplikacji")
+app = Flask("__name__")
 
 
 @app.route("/")
