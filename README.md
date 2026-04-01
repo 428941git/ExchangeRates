@@ -13,3 +13,5 @@ This is my first project built in django
 * seaborn
 
 ---
+
+This project was created to show my pandas/matplotlib basics in practice.
