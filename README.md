@@ -1,1 +1,15 @@
-# web-app
+# Exchange rates website - first project
+
+This is my first project built in django
+
+---
+
+## Dependencies
+* Python 3.1
+* pandas
+* numpy
+* django
+* matplotlib
+* seaborn
+
+---
