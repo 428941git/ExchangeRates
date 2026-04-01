@@ -2,6 +2,7 @@
 
 This is my first project built in django
 
+Running view.py runs website
 ---
 
 ## Dependencies
